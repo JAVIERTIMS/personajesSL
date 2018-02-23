@@ -13,6 +13,6 @@ Al final de la tarea, agrega la liga en la celda correspondiente
 | Theo de Raadt | | |
 | Alan Cox| | |
 | Guido Van Rossum |Javier Garza | |
-| Miguel de Icaza| Javier Garza| |
+| Miguel de Icaza  | Javier Garza| |
 | Lennart Poettering | | |
 
