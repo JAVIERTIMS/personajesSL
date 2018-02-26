@@ -12,7 +12,7 @@ Al final de la tarea, agrega la liga en la celda correspondiente
 | Patrick Volderding| | |
 | Theo de Raadt | | |
 | Alan Cox| | |
-| Guido Van Rossum | Javier Garza| |
+| Guido Van Rossum | Javier Garza| https://github.com/JAVIERTIMS/personajesSL.git|
 | Miguel de Icaza| | Javier Garza|https://github.com/JAVIERTIMS/personajesSL.git
 | Lennart Poettering | | |
 
