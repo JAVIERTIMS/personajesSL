@@ -13,7 +13,4 @@ Al final de la tarea, agrega la liga en la celda correspondiente
 | Theo de Raadt | | |
 | Alan Cox| | |
 | Guido Van Rossum | Javier Garza| https://github.com/JAVIERTIMS/personajesSL.git|
-| Miguel de Icaza| | Javier Garza  https://github.com/JAVIERTIMS/personajesSL/Personajes de Influencia -Miguel de Icaza Guido Von Rossum.txt
-
-    
-  
+| Miguel de Icaza| | Javier Garza   https://github.com/JAVIERTIMS/personajesSL/blob/master/Personakes%20de%20Influencia%20-Miguel%20de%20Icaza%20Guido%20Von%20Rossum.txt
