@@ -12,5 +12,5 @@ Al final de la tarea, agrega la liga en la celda correspondiente
 | Patrick Volderding| | |
 | Theo de Raadt | | |
 | Alan Cox| | |
-| Guido Van Rossum | Javier Garza| 
+| Guido Van Rossum | Javier Garza| https://github.com/JAVIERTIMS/personajesSL/blob/master/Miguel%20de%20Icaza%20y%20Guido%20Van%20Rossum.docx
 | Miguel de Icaza| | Javier Garza   https://github.com/JAVIERTIMS/personajesSL/blob/master/Personakes%20de%20Influencia%20-Miguel%20de%20Icaza%20Guido%20Von%20Rossum.txt
