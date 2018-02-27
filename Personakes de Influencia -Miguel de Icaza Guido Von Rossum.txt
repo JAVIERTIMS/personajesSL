@@ -1,0 +1,100 @@
+
+JAVIER GARZA TAMEZ 
+
+ Miguel de Icaza (Ciudad de México en 1972)
+
+	Nació en el año de 1972 en la ciudad de México. Su padre es físico y su madre bióloga. De Icaza cursó la licenciatura en Matemáticas en la facultad de ciencias de la Universidad Nacional Autónoma de México (UNAM) donde a la edad de 18 años comenzó a participar en el proyecto GNU. Su primera aportación fue el gestor de archivos o ficheros Midnight Commander.
+
+En 1993 se le atribuyó a Miguel un ataque a la supercomputadora CRAY Y-MP de la UNAM, en el que logró obtener todos los privilegios de la misma. Usando un sniffer, logró capturar el password de root de la supercomputadora, después logró crear una cuenta cuyo nombre era "god" (dios en ingles). Teniendo acceso a la cuenta god y usando una especie de backdoor podía tener todos los privilegios de la máquina. Este incidente nunca fue sancionado, se consideró como una travesura.6?7?
+
+	No finalizó sus estudios de licenciatura en la UNAM. Su reputación como programador le valió un viaje con gastos pagados a las oficinas de Microsoft para una entrevista de trabajo, la cual aprovechó para predicar las ventajas del software libre a la empresa fabricante de Windows. No obtuvo el empleo, pero trabó amistad con Nat Friedman, quien años más tarde se asociaría con él para fundar la empresa Helix Code (posteriormente rebautizada como Ximian) en la ciudad de Boston.
+	En agosto de 1997, con el apoyo del también mexicano Federico Mena, fundó el proyecto GNOME con el propósito de crear un entorno gráfico de escritorio y proveer una infraestructura sólida para el desarrollo de software libre. Su trabajo le hizo acreedor dos años después al Premio al Software Libre de la FSF y a ser reconocido como el Innovador del Año por el Instituto Tecnológico de Massachusetts.
+
+n septiembre de 2000 la revista Time lo nombró uno de los 100 principales innovadores para el siglo XXI.9? Meses después anunció la creación del proyecto Mono, una reimplementación de la plataforma .NET para GNU/Linux y otros sistemas Unix.
+En 2003 contrajo matrimonio con María Laura, una ciudadana brasileña.
+Fue el Vicepresidente de Desarrollo en Novell (la empresa estadounidense que adquirió su compañía desde el 2003) hasta 2011, dirigiendo el proyecto Mono y participando en múltiples conferencias de difusión o promoción del software libre a nivel internacional.
+En 2011 Novell es adquirida por el grupo Attachmate cerrando algunos proyectos de Novell incluidos entre ellos el proyecto Mono.10?11?
+En 2011 funda la compañía Xamarin12? para promover el proyecto Mono, libre de la injerencia de Attachmate. Sin embargo, en julio de 2011, Novell, ahora una subsidiaria de Attachmate, anunció que concedería una licencia perpetua a Xamarin para Mono, MonoTouch y Mono para Android, tomando así Xamarin la administración oficial del proyecto.13?14?
+Miguel tuvo un pequeño cameo en la película Antitrust en el 2001 y en la película "The Code" también del 2001.15?
+Sus fuertes críticas hacia la presunta apatía del gobierno de su país en relación con la forma en la que se insertaba a México en la vida digital, tuvieron mucho eco en la comunidad tecnológica en ese país. Propuso un modelo de desarrollo basado en código abierto tanto para el acceso a la red de la comunidad en general, como de desarrollo de aplicaciones gubernamentales. En lugar de esta propuesta, el gobierno de su país decidió pagar a Microsoft para dotar de la infraestructura de software de este proyecto. Actualmente el proyecto vive en el abandono, como vaticinaba Miguel y los desarrollos de software gubernamentales no son centralizados sino individuales a cada dependencia, siendo a veces desarrollos de software libre como en servidores con Apache y PHP.16?17?18?
+
+Críticas desde la comunidad de software libre[editar]
+En septiembre de 2009 Microsoft anunció su fundación de código abierto CodePlex. Miguel de Icaza fue uno de los integrantes del consejo administrativo de dicha fundación. Este hecho fue duramente criticado por Richard Stallman, que llegó a calificar a Icaza de «traidor al software libre».19?
+De Icaza apoya el estándar de documentos Microsoft Office Open XML (OOXML), discrepando así con muchas de las críticas generalizadas en la comunidad de código abierto y software libre.20?21?22?
+Opinion GNU/Linux vs Mac[editar]
+En marzo de 2013 anunció a través de su blog23? que él generalmente usaba Mac OS X en lugar de GNU/Linux en el escritorio: "Linux nunca se las arregló para cruzar el abismo de escritorio", comentó. Las razones del cambio se resumen, según De Icaza, en "la fragmentación de Linux como plataforma, las múltiples distribuciones incompatibles y las incompatibilidades entre las versiones de la misma distro". Una opinión que ha mantenido desde hace bastante tiempo, y que fue suavemente cuestionada, entre otros, por Linus Torvalds y Alan Cox.»24?
+Premios y reconocimientos[editar]
+Miguel de Icaza ha recibido el "Free Software Foundation Award" en 1999, el "MIT Technology Review Innovator of the Year Award" en 1999, y fue nombrado uno de los 100 innovadores para el nuevo siglo de la revista Time, en septiembre de 2000.
+También ha sido un defensor durante largo tiempo de integrar Mono, una implementación libre de. NET Framework de Microsoft, en GNOME. Esto ha suscitado una gran cantidad de desacuerdos debido a las patentes que Microsoft posee sobre este framework.
+
+Xamarin (Miguel Actualmenet trabaja en la empresa XAMARIN de al cual es fundador 
+Xamarin-logo.svg
+Tipo	Subsidiaria de Microsoft
+Industria	Software
+Fundación	2011
+Fundador(es)	Nat Friedman
+Miguel de Icaza
+Joseph Hill
+Sede	San Francisco (California)
+Productos	Proyecto Mono
+Propietario	Microsoft
+Matriz	Microsoft
+Sitio web	www.xamarin.com
+[editar datos en Wikidata]
+
+Xamarin es una compañía de software estadounidense, propiedad de Microsoft y con sede principal en San Francisco (California), fundada en mayo de 2011 por Nat Friedman y Miguel de Icaza (que iniciaron el Proyecto Mono). Con un código compartido del lenguaje de programación C#, los desarrolladores de software pueden usar Xamarin para escribir aplicaciones móviles nativas para Android, iOS y Windows, y compartir código a través de múltiples plataformas, incluyendo Windows y macOS.
+
+Historia
+En junio de 2000, Microsoft anunció por primera vez su .NET Framework. Miguel de Icaza, de Ximian, comenzó a investigar si una versión para Linux era factible.2? Posteriormente, el proyecto Mono fue lanzado el 19 de junio de 2001. Ximian fue adquirida por Novell el 4 de agosto de 2003.
+
+Después de la subsiguiente adquisición de Novell por parte de Attachmate en abril de 2011, Attachmate anunció el despido de cientos de trabajadores de Novell, incluyendo a desarrolladores de Mono,3? poniendo así el futuro del proyecto en cuestión.4?
+
+El 16 de mayo, Miguel de Icaza anunció en su blog que Mono será desarrollado y soportado por Xamarin, empresa que planea lanzar una serie de productos para dispositivos móviles. De acuerdo con de Icaza, al menos una parte del equipo original de Mono se ha movido a la nueva compañía.5?
+
+Sin embargo, en julio de 2011, Novell, ahora una subsidiaria de Attachmate, anuncio que concedería una licencia perpetua a Xamarin para Mono, MonoTouch y Mono para Android, tomando así Xamarin la administración oficial del proyecto.6?7? En febrero de 2016 es comprada por Microsoft.
+
+Referencias[editar]
+1. Volver arriba? «The GNOME Desktop project».
+2. Volver arriba? Bezroukov, Nikolai (16 de diciembre de 2011). «History of development of Midnight Commander». softpanorama.org. Consultado el 20 de septiembre de 2014.
+3. Volver arriba? «The Gnumeric spreadsheet». Gnumeric. Consultado el 6 de septiembre de 2010. «Gnumeric has been coded mainly by Miguel de Icaza, with help from other intrepid hackers that have contributed code, bug fixes and documentation.».
+4. Volver arriba? «[Mono-list] Mono early history.». 13 de octubre de 2003. Archivado desde el original el 27 de enero de 2014.
+5. Volver arriba? De Icaza, Miguel (16 de mayo de 2011). «Announcing Xamarin» (en inglés). Consultado el 1 de agosto de 2011.
+6. Volver arriba? Zamboni, Diego Matín (1995). «Proyecto UNAM/Cray de Seguridad en el Sistema Operativo UNIX». Tesis. Consultado el 2016.
+7. Volver arriba? «Capitulo 9. Supercómputo». 50 Años de Computo en México. Medios y Enteros. 2008. p. 141, 143. ISBN 9786079527402. Consultado el 2016.
+8. Volver arriba? MIT Technology Review. «Innovators under 35».
+9. Volver arriba? Bill Syken. «An evangelist for Free Software».
+10. Volver arriba? https://www.netiq.com/company/news/press/2011/the-attachmate-group-completes-acquisition-of-novell.html. Falta el |título= (ayuda)
+11. Volver arriba? Koep, Paul (2 de mayo de 2011). «Employees say hundreds laid off at Novell's Provo office». KSL-TV. Consultado el 7 de mayo de 2011.
+12. Volver arriba? {{cita web|url=http://tirania.org/blog/archive/2011/May-16.html%7Ctítulo=Announcing Xamarin
+13. Volver arriba? «SUSE and Xamarin Partner to Accelerate Innovation and Support Mono Customers and Community». Novell. 18 de julio de 2011. Consultado el 18 de julio de 2011. «The agreement grants Xamarin a broad, perpetual license to all intellectual property covering Mono, MonoTouch, Mono for Android and Mono Tools for Visual Studio. Xamarin will also provide technical support to SUSE customers using Mono-based products, and assume stewardship of the Mono open source community project.».
+14. Volver arriba? De Icaza, Miguel (18 de julio de 2011). «Novell/Xamarin Partnership around Mono». Consultado el 18 de julio de 2011.
+15. Volver arriba? «Miguel de Icaza».
+16. Volver arriba? Octavio Islas; Fernando Gutiérrez. «De "Los Amigos de Vicente Fox" a "Los amigos de Microsoft"».
+17. Volver arriba? «EL SISTEMA NACIONAL E-MÉXICO Y SU REALIDAD SOCIAL EN LAS POBLACIONES INDÍGENAS».
+18. Volver arriba? «El impacto al sistema e-Mexico de la incorporación de software libre.».
+19. Volver arriba? «Miguel de Icaza es un traidor al software libre, dice Stallman».
+20. Volver arriba? «OOXML. (Score:4, Informative)». Slashdot. Consultado el 19 de agosto de 2008.
+21. Volver arriba? «The EU Prosecutors are wrong».
+22. Volver arriba? «OOXML: The Wins».
+23. Volver arriba? «How I ended up with Mac».
+24. Volver arriba? «Torvalds y Alan Cox critican los comentarios de Miguel de Icaza».
+
+
+
+
+
+.-) Guido van Rossum (31 de enero de 1956, Holanda)
+ 
+Guido van Rossum escribió el lenguaje de programación Python a finales de los años ochenta y desde su primer lanzamiento en 1991 ha evolucionado hasta su versión más reciente (3.1.1), desarrollado como un proyecto de código abierto.
+	Van Rossum nació en 1956 en los Países Bajos y allí recibió un título de maestría en matemática y ciencias de la computación de parte de la Universidad de Amsterdam en 1982. Esto le abrió las puertas a varios puestos de trabajo que ocupó durante los próximos años, en el Centrum Wiskunde & Informatica (CWI) en esa misma ciudad, donde creó Python como un sucesor del Lenguaje ABC.
+	Posteriormente, colaboró con el National Institute of Standards and Technology (NIST) en Maryland y en la 	Corporation for National Research Initiatives (CNRI) en Virginia.
+	En 1999 y durante su estadía en CNRI, Guido lanzó una iniciativa llamada [ Computer Programming for 	Everybody Computer] Pro(CP4E), cuyo propósito era alfabetizar a más y más personas a un nivel básico de 	programación, de la misma manera que pensamos en la alfabetización tradicional como el aprendizaje de 	conocimientos básicos en áreas como inglés y matemáticas.
+	En la propuesta, identificaba varias metas que se proponía realizar para Python, entre las que se encontraban:
+	Convertirlo en un proyecto de código abierto para que cualquiera pudiera contribuir con su desarrollo. Hacerlo 	un lenguaje tan simple e intuitivo que lo colocara al lado de su poderosa competencia. Hacerlo adecuado para 	tareas del día a día, permitiendo tiempos cortos de desarrollo.
+	Desde 2005, Guido fue contratado por Google y ahora dedica el 50% de su tiempo a trabajar en Python.
+Su primer proyecto como ingeniero de Google fue una aplicación web interna para la revisión de código, cuyo fin era encontrar y solucionar errores pasados por alto en las fases tempranas de desarrollo y mantener la calidad del software que generan. La aplicación fue llamada Mondrian en honor a uno de los pintores holandeses favoritos de van Rossum y se volvió popular como parte de la infraestructura de la compañía.
+ 	Además, Guido desarrolló una aplicación que aplica varias de las ideas de Mondrian y que bautizó como Rietveld, en honor a Gerrit Rietveld, pintor y diseñador holandés. Esta aplicación es una demostración de uso de Django con App Engine y hace que la revisión de código basada en web esté disponible para muchos proyectos a través de Subversion. La instancia pública de la aplicación se ejecuta en codereview.appspot.com, pero las empresas pueden ejecutar su propia instancia restringida según sus propias necesidades. Por eso es software libre. Actualmente, Guido vive en California con su esposa americana y su hijo de 9 años.
+
+En el ambiente de los desarrolladores del lenguaje Python también se le conoce por el título BDFL ("Benevolent Dictator for Life'"), teniendo asignada la tarea de fijar las directrices sobre la evolución de Python, así como la de tomar decisiones finales sobre el lenguaje que todos los desarrolladores acatan. Van Rossum tiene fama de ser bastante conservador, realizando pocos cambios al lenguaje entre versiones sucesivas, intentando mantener siempre la compatibilidad con versiones anteriores.
+En el año 2001 recibió el FSF Award for the Advancement of Free Softwarecomo reconocimiento por su trabajo.2? En diciembre de 2005 fue contratado como desarrollador por la empresa estadounidense Google. Después de siete años en Google, a principios de diciembre de 2012, anuncia su retirada de la empresa norteamericana para incorporarse en enero de 2013 a la plantilla de la compañía Dropbox.3?
+
